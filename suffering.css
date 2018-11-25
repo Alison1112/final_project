@@ -84,5 +84,5 @@ hr{
   right: 0;
 }
 
-header{position: fixed;
+#header{position: fixed;
 top:0;}
