@@ -84,3 +84,5 @@ hr{
   right: 0;
 }
 
+header{position: fixed;
+top:0;}
